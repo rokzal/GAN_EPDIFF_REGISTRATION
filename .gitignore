@@ -1,8 +1,2 @@
-/tensorboard/
-/tensorboard_2d/
-/tensorboard_3d/
-/tensorboard_logs/
-/saved_models/
-/saved_models/checkpoints/
 misc.xml
 *.iml
